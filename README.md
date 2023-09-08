@@ -67,12 +67,16 @@
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/Other/git-scm-icon.svg" alt="Git" width="40" height="40"/>
 </p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavjawale01&theme=highcontrast" alt="pranavjawale01" /></p>
+<p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavjawale01&theme=highcontrast" alt="pranavjawale01" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavjawale01&show_icons=true&locale=en&layout=compact" alt="pranavjawale01" /></p>
 
-<p align="left">
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavjawale01&show_icons=true&locale=en&layout=compact" alt="pranavjawale01" /></p>
 <!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavjawale01&label=Profile%20views&color=0e75b6&style=flat" alt="pranavjawale01" /> </p>
+
+</p>
+
+<p align="right">
+
 -->
 
 <!--
