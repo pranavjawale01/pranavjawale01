@@ -66,7 +66,9 @@
 
 <p align="left">
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranavjawale01&show_icons=true&locale=en&layout=compact" alt="pranavjawale01" /></p>
+<!--
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranavjawale01&label=Profile%20views&color=0e75b6&style=flat" alt="pranavjawale01" /> </p>
+-->
 
 <!--
 <h3 align="left">Stars</h3>
