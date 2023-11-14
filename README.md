@@ -5,7 +5,6 @@
 <!--
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavjawale01&theme=dark_lover" alt="pranavjawale01" /></a> </p>
 -->
-
 - 🌱 I’m currently learning **App Development, Python Lib.....**
 
 - 📫 How to reach me **jawalepranav01@gmail.com**
@@ -18,7 +17,6 @@
 <a href = "mailto:jawalepranav01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
 -->
-
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
 <!--
@@ -44,7 +42,6 @@
 <!--
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/pytorch-icon.svg" alt="Pytorch" width="40" height="40"/>
 -->
-  
 <!--
 <img src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Skills/ML/tensorflow-icon.svg" alt="Tensorflow" width="40" height="40"/>
 -->
