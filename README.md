@@ -74,7 +74,6 @@
   <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="jawalepranav01" height="30" width="40" />
 </a><a href="https://www.leetcode.com/pranavjawale01" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="jawalepranav01" height="30" width="40" />
-  
 </p>
 
 <p><img align="left" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranavjawale01&theme=highcontrast" alt="pranavjawale01" />
