@@ -105,8 +105,8 @@
 <br>
 <p>
   <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/80728820-e06b-4f96-9c9e-9df46f0cc0a5">
-  
-  <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="400" align="right">
-  
-  ![LeetCode Stats](https://leetcard.jacoblin.cool/pranavjawale01?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
+  <!--
+    <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" height="400" align="right"> 
+    ![LeetCode Stats](https://leetcard.jacoblin.cool/pranavjawale01?theme=dark&font=Red%20Hat%20Display&ext=heatmap)
+  -->
 </p>
