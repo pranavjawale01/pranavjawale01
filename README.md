@@ -6,7 +6,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pranavjawale01&theme=dark_lover" alt="pranavjawale01" /></a> </p>
 -->
 
-- 🌱 I’m currently learning **App Development, Python Lib.....
+- 🌱 I’m currently learning backend development, etc.....
 
 - 📫 How to reach me **jawalepranav01@gmail.com**
   
