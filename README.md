@@ -18,9 +18,9 @@
     &nbsp;@pranavjawale01
   </a>&nbsp;&nbsp;&nbsp;
 
-  <a href="https://twitter.com/PranavJawale01" target="_blank" style="text-decoration: none; color: inherit;">
+  <a href="https://twitter.com/pranavjawale01" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="30" height="30"/>
-    &nbsp;@PranavJawale01
+    &nbsp;@pranavjawale01
   </a>
 </p>
 
