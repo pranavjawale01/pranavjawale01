@@ -56,11 +56,11 @@
     <img style="background-color:white;" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/120px-GeeksforGeeks.svg.png" alt="GeeksforGeeks | pranavjawale01" height="30" width="40" />
   </a>
 
-  <a href="https://www.hackerrank.com/jawalepranav01" target="blank">
+  <a href="https://www.hackerrank.com/pranavjawale01" target="blank">
     <img style="background-color:white;" align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="HackerRank | jawalepranav01" height="30" width="40" />
   </a>
 
-  <a href="https://www.codolio.io/pranavjawale01" target="blank">
+  <a href="[https://www.codolio.io/pranavjawale01](https://codolio.com/profile/pranavjawale01)" target="blank">
     <img style="background-color:white;" align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio | pranavjawale01" height="30" width="40" />
   </a>
 </p>
