@@ -5,22 +5,15 @@
 <p align="center">
   <a href="mailto:jawalepranav01@gmail.com" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.icons8.com/color/48/gmail--v1.png" alt="Gmail" width="30" height="30"/>
-    &nbsp;jawalepranav01@gmail.com
-  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://linkedin.com/in/pranavjawale01" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30" height="30"/>
-    &nbsp;pranavjawale01
-  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://instagram.com/pranavjawale01" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.icons8.com/color/48/instagram-new--v1.png" alt="Instagram" width="30" height="30"/>
-    &nbsp;@pranavjawale01
-  </a>&nbsp;&nbsp;&nbsp;
 
   <a href="https://twitter.com/pranavjawale01" target="_blank" style="text-decoration: none; color: inherit;">
     <img src="https://img.icons8.com/color/48/twitter--v1.png" alt="Twitter" width="30" height="30"/>
-    &nbsp;@pranavjawale01
   </a>
 </p>
 
@@ -44,29 +37,35 @@
 
 <p align="center">
   <a href="https://leetcode.com/pranavjawale01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="LeetCode | pranavjawale01" height="30" width="40" />
+    <img style="background-color:white;" align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/leet-code.svg" alt="LeetCode | pranavjawale01" height="30" width="40" />
   </a>
-  
+
   <a href="https://www.codechef.com/users/pranavjawale01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="pranavjawale01" height="30" width="40" />
+    <img style="background-color:white;" align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codechef.svg" alt="CodeChef | pranavjawale01" height="30" width="40" />
   </a>
+
   <a href="https://codeforces.com/profile/pranavjawale01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="pranavjawale01" height="30" width="40" />
+    <img style="background-color:white;" align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/codeforces.svg" alt="Codeforces | pranavjawale01" height="30" width="40" />
   </a>
-  
+
   <a href="https://atcoder.jp/users/pranavjawale01" target="blank">
-    <img align="center" src="https://img.icons8.com/ios/50/000000/atcoder.png" alt="AtCoder | pranavjawale01" height="30" width="40" />
+    <img style="background-color:white;" align="center" src="https://img.atcoder.jp/logo/atcoder/logo_transparent.png" alt="AtCoder | pranavjawale01" height="30" width="40" />
   </a>
+
   <a href="https://auth.geeksforgeeks.org/user/pranavjawale01" target="blank">
-    <img align="center" src="https://img.icons8.com/ios/50/000000/geeks-for-geeks.png" alt="GeeksforGeeks | pranavjawale01" height="30" width="40" />
+    <img style="background-color:white;" align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/GeeksforGeeks.svg/120px-GeeksforGeeks.svg.png" alt="GeeksforGeeks | pranavjawale01" height="30" width="40" />
   </a>
+
   <a href="https://www.hackerrank.com/jawalepranav01" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="HackerRank | jawalepranav01" height="30" width="40" />
+    <img style="background-color:white;" align="center" src="https://raw.githubusercontent.com/teamedwardforever/Readme-Generator/71f25dd8b98329b168142a6b782a107b75eab178/svg/Social/hackerrank.svg" alt="HackerRank | jawalepranav01" height="30" width="40" />
   </a>
+
   <a href="https://www.codolio.io/pranavjawale01" target="blank">
-    <img align="center" src="https://img.icons8.com/ios/50/000000/codolio.png" alt="Codolio | pranavjawale01" height="30" width="40" />
+    <img style="background-color:white;" align="center" src="https://codolio.com/codolio_assets/codolio.svg" alt="Codolio | pranavjawale01" height="30" width="40" />
   </a>
 </p>
+
+
 
 ---
 
